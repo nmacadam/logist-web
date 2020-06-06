@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/logist-web/static/css/main.9a6fde90.chunk.css",
+    "main.js": "/logist-web/static/js/main.1a209380.chunk.js",
+    "main.js.map": "/logist-web/static/js/main.1a209380.chunk.js.map",
+    "runtime-main.js": "/logist-web/static/js/runtime-main.c624d6a3.js",
+    "runtime-main.js.map": "/logist-web/static/js/runtime-main.c624d6a3.js.map",
+    "static/js/2.35ee1465.chunk.js": "/logist-web/static/js/2.35ee1465.chunk.js",
+    "static/js/2.35ee1465.chunk.js.map": "/logist-web/static/js/2.35ee1465.chunk.js.map",
+    "index.html": "/logist-web/index.html",
+    "precache-manifest.3f3108acf6b8c42bda4f25f36206eea8.js": "/logist-web/precache-manifest.3f3108acf6b8c42bda4f25f36206eea8.js",
+    "service-worker.js": "/logist-web/service-worker.js",
+    "static/css/main.9a6fde90.chunk.css.map": "/logist-web/static/css/main.9a6fde90.chunk.css.map",
+    "static/js/2.35ee1465.chunk.js.LICENSE.txt": "/logist-web/static/js/2.35ee1465.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c624d6a3.js",
+    "static/js/2.35ee1465.chunk.js",
+    "static/css/main.9a6fde90.chunk.css",
+    "static/js/main.1a209380.chunk.js"
+  ]
+}
